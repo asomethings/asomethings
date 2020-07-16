@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on company project
+- 🌱 I’m currently learning Kotlin and Infrastructure (Terraform, Kubernetes)
+- 🤔 I’m looking for help with Kubernetes
+- 💬 Ask me about everything! I would be glad to help
+- 📫 How to reach me: asomethings@kakao.com
+- 😄 Pronouns: He | Him
+- ⚡ Fun fact: ...
 <!--
 **asomethings/asomethings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
