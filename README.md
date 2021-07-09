@@ -6,7 +6,6 @@
 - 💬 Ask me about everything! I would be glad to help
 - 📫 How to reach me: asomethings@kakao.com
 - 😄 Pronouns: He | Him
-- ⚡ Fun fact: Twenty Years Old
 <!--
 **asomethings/asomethings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
