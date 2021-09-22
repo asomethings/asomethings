@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on company project
+- 🔭 I’m currently working on `nestjs-extended`
 - 🌱 I’m currently learning Kotlin and Infrastructure (Terraform, Kubernetes)
-- 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about everything! I would be glad to help
 - 📫 How to reach me: asomethings@kakao.com
 - 😄 Pronouns: He | Him
